@@ -1,0 +1,36 @@
+body{  
+  background: #f8f7ec url(bg.gif);
+  -webkit-font-smoothing: antialiased;  
+}  
+#wrapper{  
+  width: 780px;
+  margin-right: auto;
+  margin-left: auto;        
+}  
+.kotak {   
+  margin-left:30px;
+  width: 630px;  
+  padding: 20px;  
+  border-radius: 12px;      
+  border: 3px solid rgb(0,0,51);     
+}  
+#judul{
+  background-color: rgb(192,192,192);
+  padding: 1em;
+  text-align: center;
+}
+#title {  
+  color: rgb(0,0,153);
+  width: 550px;  
+  margin: 0px 31px;  
+  padding-top: 1px;    
+  font-size: 23px;  
+}  
+table{
+  background-color: rgb(255,255,255);
+}
+td{
+  border: rgb(255,255,255);
+  font-weight: bold;
+}    
+
